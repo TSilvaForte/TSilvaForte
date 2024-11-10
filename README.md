@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TSilvaForte
-- 👀 I’m interested in developing skills in Full stack projects.
-- 🌱 I’m currently learning Tailwind, Tree.js
+- 👀 I’m interested in developing skills at Full Stack projects.
+- 🌱 I’m currently learning Tree.js
 - 💞️ I’m looking to collaborate on interesting projects where I can work alongside amazing people! 
 - 📫 You can contact me at tamara.sfok@gmail.com
 - 😄 Pronouns: She
