@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @TSilvaForte
-- 👀 I’m interested in developing skills at Full Stack projects.
-- 🌱 I’m currently learning Tree.js
-- 💞️ I’m looking to collaborate on interesting projects where I can work alongside amazing people! 
+- 👋 Hi, I’m Tamara
+- 👀 Full Stack Developer specialized in Frontend, with background as Economist and a Magister in Finance. I bring extensive experience in Finance and Data Management roles within multinational companies.
+- 🌱 My technical expertise includes React, Redux, Node.js, Next.js, SQL, MongoDB, and more—skills developed through bootcamps, courses, and hands-on experience in real-world projects.
+I am passionate about creating efficient, scalable, and user-friendly solutions, leveraging my analytical mindset and technical proficiency to solve complex challenges. I’m currently learning Three.js
+- 💞️ I’m looking to collaborate on interesting projects where I can work alongside amazing people and keep learning! 
 - 📫 You can contact me at tamara.sfok@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: Originally, my bachelor degree is Economics. I am also Magister in Finance, that's my background. I started playing around in Programming as amateur, on my own with videos and online courses. Finally I decided to go to the next level and enrolled at a formal Full Stack Developer carreer.. funny right? Here I am! 
+- ⚡ Fun fact: Mom of one kiddo and two golden retrievers 💞️
 
 <!---
 TSilvaForte/TSilvaForte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
